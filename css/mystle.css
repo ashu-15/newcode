@@ -1,0 +1,18 @@
+
+table,td,th{
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+.abc{
+    color: blue !important;
+    background-color: gold; width: 200px;height: 19px;
+}
+.xyz{
+    color:green;
+    background-color: black;
+}
+
+#myid{
+        color: blanchedalmond;
+        background-color: brown;
+    }
